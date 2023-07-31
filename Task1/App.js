@@ -15,7 +15,7 @@ class App extends React.Component{
           "name":"Jaisurya:Frank"
         },
         {
-          "name":"Adityan:Murugan"
+          "name":"Adityan:Neo"
         },
         {
           "name":"Aakash:Hash"
