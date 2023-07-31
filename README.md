@@ -1,5 +1,5 @@
 # React-VAC
-Task1-
+Task1-Buddy Club
 Task2-
 Task3-
 Task4-
